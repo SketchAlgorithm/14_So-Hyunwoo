@@ -1,3 +1,13 @@
+# 20190313 과제
+[알고스팟 Longest Increasing Sequence](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Longest%20Increasing%20Sequence.cpp)
+
+[알고스팟 Wildcard](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Wildcard.cpp)
+
+[알고스팟 폴리오미노](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.cpp)
+
+
+
+
 # 20190306 과제
 [백준 가장 긴 증가하는 부분수열 5](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%205.cpp)
 
