@@ -1,3 +1,13 @@
+# 20190320 과제
+[백준 시험 감독](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EC%8B%9C%ED%97%98%20%EA%B0%90%EB%8F%85.cpp)
+
+[알고스팟 숫자 게임](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.cpp)
+
+[알고스팟 두니발 박사의 탈옥](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EB%91%90%EB%8B%88%EB%B0%9C%20%EB%B0%95%EC%82%AC%EC%9D%98%20%ED%83%88%EC%98%A5.cpp)
+
+
+
+
 # 20190313 과제
 [알고스팟 Longest Increasing Sequence](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Longest%20Increasing%20Sequence.cpp)
 
