@@ -1,4 +1,12 @@
 # 20190320 과제
+[알고스팟 삼각형 위의 최대 경로](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EC%82%BC%EA%B0%81%ED%98%95%20%EC%9C%84%EC%9D%98%20%EC%B5%9C%EB%8C%80%20%EA%B2%BD%EB%A1%9C.cpp)
+
+[백준 포도주 시식](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.cpp)
+
+
+
+
+# 20190320 과제
 [백준 시험 감독](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EC%8B%9C%ED%97%98%20%EA%B0%90%EB%8F%85.cpp)
 
 [알고스팟 숫자 게임](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.cpp)
