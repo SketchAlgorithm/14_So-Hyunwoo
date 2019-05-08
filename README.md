@@ -1,7 +1,7 @@
 # 20190508 과제
-[코드포스 Game 23](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Taxi.cpp)
+[코드포스 Game 23](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Game%2023.cpp)
 
-[코드포스 Maximal Continuous Rest](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Woodcutters.cpp)
+[코드포스 Maximal Continuous Rest](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Maximal%20Continuous%20Rest.cpp)
 
 
 # 20190403 과제
