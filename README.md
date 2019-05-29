@@ -1,3 +1,7 @@
+# 20190529 과제
+[백준 Maaaaaaaaaze](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Maaaaaaaaaze.cpp)
+
+
 # 20190522 과제
 [코드포스 Superhero Battle](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Superhero%20Battle.cpp)
 
